@@ -67,6 +67,15 @@ body {
     width: 90%;
 }
 
+.credit{
+    position: fixed;
+    bottom: 10px;
+    right: 10px ;
+    font-size: 15px;
+    color: #808080 ;
+    z-index: 9999;
+}
+
 .panel.hidden {
     opacity: 0;
     transform: scale(0.9) translateY(20px);
